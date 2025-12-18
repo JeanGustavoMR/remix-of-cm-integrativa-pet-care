@@ -109,8 +109,8 @@ const Infrastructure = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1452378174528-3090a4bba7b2?w=500&h=400&fit=crop" 
-                alt="Ambiente da clínica veterinária"
+                src="https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=500&h=400&fit=crop" 
+                alt="Cachorro em ambiente de clínica veterinária"
                 className="rounded-2xl shadow-lg w-full object-cover"
               />
               <div className="absolute -bottom-4 -left-4 bg-gradient-to-r from-cm-blue to-cm-blue-light text-white p-4 rounded-xl shadow-lg">
